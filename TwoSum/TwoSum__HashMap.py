@@ -1,7 +1,8 @@
 from typing import List
 
 """ Problem Statement: https://leetcode.com/problems/two-sum/ 
-    Time Complexity: O(n)
+    Time Complexity: O(N)
+    Space Complexity: O(N)
     Solution: Check for remainder of target-arrayElement in HashTable
     If not found, add element along with its index in the HashTable
     If found, return the element and index of matched value from hashTable """

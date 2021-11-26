@@ -2,6 +2,7 @@ from typing import List
 
 """ Problem Statement: https://leetcode.com/problems/two-sum/ 
     Time Complexity: O(N^2)
+    Space Complexity: O(1)
     Solution: Compare each and every values' sum with the target """
     
 class Solution:
