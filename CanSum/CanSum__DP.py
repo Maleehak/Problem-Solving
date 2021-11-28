@@ -1,8 +1,8 @@
 """ Problem: Given an array of numbers and a target value,
              return true if the numbers can sum up to target value
              otherwise, return false
-    Time Complexity: O(2^n)
-    Space Complexity: O(n)
+    Time Complexity: O(m * n)
+    Space Complexity: O(m)
     Solution: cache result in hashtable, memoization"""
 
 class Solution:
